@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331963314568",
+    "project_id": "hotelmanagement-99465",
+    "storage_bucket": "hotelmanagement-99465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331963314568:android:b92d111bfc01b3d2524a3d",
+        "android_client_info": {
+          "package_name": "com.example.moonhive_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzNG7gMPxuBJ41JD4qt_NUUqIu0NYRiZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
